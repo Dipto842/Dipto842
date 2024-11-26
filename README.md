@@ -33,10 +33,10 @@
 
 <div  width="1200" > &nbsp;
 
-   <p>&nbsp;<img align="left"   width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto842&show_icons=true&locale=en&layout=compact" alt="dipto842" /></p>
+   <p>&nbsp;<img align="left"   width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto842&show_icons=true&locale=en&layout=compact" alt="dipto842" /></p>
 
 
-<p>&nbsp;<img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=dipto842&show_icons=true&locale=en" alt="dipto842" /></p>
+<p>&nbsp;<img align="center"  width="300" src="https://github-readme-stats.vercel.app/api?username=dipto842&show_icons=true&locale=en" alt="dipto842" /></p>
 
 
 
